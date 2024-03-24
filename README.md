@@ -1,0 +1,2 @@
+# JumpToDjango
+Django Mini Project
