@@ -9,4 +9,4 @@
 - 프론트엔드 파트에서는 제대로 알지 못하는 서버에서의 로깅을 통한 오류 로그 확인, 도메인 연결, SSL 인증서 처리 등을 배울 수 있었습니다.
 
 ## Architecture
-![Desktop - 1 (2)](https://github.com/onlyoon/JumpToDjango/assets/58201514/cdd931c0-b06d-47cd-abfb-47c94d834803)
+![Desktop - 1 (4)](https://github.com/onlyoon/JumpToDjango/assets/58201514/800c66c4-302d-407b-b90f-33ddcb27c7e3)
